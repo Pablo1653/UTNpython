@@ -1,0 +1,4655 @@
+08:10:53 PM:DEBUG [conexion.py:26] Conexion Exitosa: <connection object at 0x00000200EBD33450; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:10:53 PM:DEBUG [conexion.py:39] Se abrió correctamente el cursor:<cursor object at 0x00000200EBDA34C0; closed: 0>
+08:11:17 PM:DEBUG [conexion.py:26] Conexion Exitosa: <connection object at 0x000001C4EAD43450; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:11:17 PM:DEBUG [conexion.py:39] Se abrió correctamente el cursor:<cursor object at 0x000001C4EADB34C0; closed: 0>
+08:13:25 PM:DEBUG [conexion.py:26] Conexion Exitosa: <connection object at 0x0000026D96463450; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:13:25 PM:DEBUG [conexion.py:39] Se abrió correctamente el cursor:<cursor object at 0x0000026D9653B3E0; closed: 0>
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:4,
+            Nombre:Pablo,
+            Apellido:Sangui,
+            Email:sanp@sjdksaj.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:5,
+            Nombre:Marche,
+            Apellido:Herbie,
+            Email:herbie66@gmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:8,
+            Nombre:Pepito,
+            Apellido:Pistolero,
+            Email:rcarlish@sdksk.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:9,
+            Nombre:Romina,
+            Apellido:Pinotti,
+            Email:rmp@americaonline.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:10,
+            Nombre:Sofia,
+            Apellido:Gonzalez,
+            Email:sofiagonz@yahoo.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:11,
+            Nombre:Jorge,
+            Apellido:Perez,
+            Email:jorgep@hotmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:12,
+            Nombre:Maria,
+            Apellido:Lopez,
+            Email:maria_lopez@gmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:13,
+            Nombre:Fernando,
+            Apellido:Gimenez,
+            Email:fernando.g@example.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:14,
+            Nombre:Ana,
+            Apellido:Ortiz,
+            Email:ana_ortiz@yahoo.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:15,
+            Nombre:Javier,
+            Apellido:Suarez,
+            Email:javisuarez@hotmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:16,
+            Nombre:Valeria,
+            Apellido:Mendoza,
+            Email:valeria.m@outlook.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:17,
+            Nombre:Ricardo,
+            Apellido:Alvarez,
+            Email:ricardo123@gmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:18,
+            Nombre:Paula,
+            Apellido:Ruiz,
+            Email:paular@gmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:19,
+            Nombre:Andres,
+            Apellido:Herrera,
+            Email:andres_h@example.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:20,
+            Nombre:Carolina,
+            Apellido:Torres,
+            Email:caro_torres@yahoo.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:21,
+            Nombre:Sebastian,
+            Apellido:Diaz,
+            Email:sebastian.d@hotmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:22,
+            Nombre:Veronica,
+            Apellido:Sanchez,
+            Email:verosanchez@gmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:23,
+            Nombre:Gustavo,
+            Apellido:Castro,
+            Email:gustavo_castro@hotmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:24,
+            Nombre:Patricia,
+            Apellido:Ramos,
+            Email:patricia_r@gmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:25,
+            Nombre:Diego,
+            Apellido:Pereyra,
+            Email:diego.p@example.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:26,
+            Nombre:Gabriela,
+            Apellido:Moreno,
+            Email:gabriela_moreno@yahoo.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:27,
+            Nombre:Daniel,
+            Apellido:Navarro,
+            Email:danieln@hotmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:28,
+            Nombre:Liliana,
+            Apellido:Flores,
+            Email:liliana.f@example.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:29,
+            Nombre:Martin,
+            Apellido:Vega,
+            Email:martinvega@gmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:30,
+            Nombre:Laura,
+            Apellido:Romero,
+            Email:laurar@yahoo.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:31,
+            Nombre:Francisco,
+            Apellido:Rivas,
+            Email:francisco_rivas@hotmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:32,
+            Nombre:Silvana,
+            Apellido:Luna,
+            Email:silvana.l@example.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:33,
+            Nombre:Hernan,
+            Apellido:Salinas,
+            Email:hernan_s@hotmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:34,
+            Nombre:Alejandra,
+            Apellido:Campos,
+            Email:alejandrac@gmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:35,
+            Nombre:Roberto,
+            Apellido:Paz,
+            Email:robertop@example.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:36,
+            Nombre:Natalia,
+            Apellido:Gutierrez,
+            Email:natalia.gutierrez@yahoo.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:37,
+            Nombre:Federico,
+            Apellido:Molina,
+            Email:federicom@gmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:38,
+            Nombre:Elena,
+            Apellido:Ibanez,
+            Email:elena.ib@example.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:39,
+            Nombre:Rodrigo,
+            Apellido:Mendez,
+            Email:rodrigo_mendez@hotmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:40,
+            Nombre:Monica,
+            Apellido:Ponce,
+            Email:monicap@yahoo.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:41,
+            Nombre:Emilio,
+            Apellido:Aguirre,
+            Email:emilio.a@example.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:42,
+            Nombre:Noelia,
+            Apellido:Carrizo,
+            Email:noelia.carrizo@gmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:43,
+            Nombre:Leandro,
+            Apellido:Correa,
+            Email:leandro_correa@hotmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:44,
+            Nombre:Miriam,
+            Apellido:Bustos,
+            Email:miriamb@gmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:45,
+            Nombre:Cristian,
+            Apellido:Ortiz,
+            Email:cristian.o@example.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:46,
+            Nombre:Florencia,
+            Apellido:Peralta,
+            Email:florenciap@hotmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:47,
+            Nombre:Pablo,
+            Apellido:Soria,
+            Email:pablo_s@example.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:48,
+            Nombre:Viviana,
+            Apellido:Martinez,
+            Email:vivianam@yahoo.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:49,
+            Nombre:Sergio,
+            Apellido:Cabrera,
+            Email:sergio_cabrera@gmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:50,
+            Nombre:Rosa,
+            Apellido:Vidal,
+            Email:rosav@hotmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:51,
+            Nombre:Julian,
+            Apellido:Morales,
+            Email:julianm@example.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:52,
+            Nombre:Mariana,
+            Apellido:Diaz,
+            Email:marianad@gmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:53,
+            Nombre:Nicolas,
+            Apellido:Cardenas,
+            Email:nicolas.c@example.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:54,
+            Nombre:Claudia,
+            Apellido:Rojas,
+            Email:claudiar@yahoo.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:55,
+            Nombre:Esteban,
+            Apellido:Reyes,
+            Email:esteban.r@hotmail.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:56,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:57,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:58,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:59,
+            Nombre:Marcos,
+            Apellido:Rojo,
+            Email:yacobiti@america.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:60,
+            Nombre:Marcelita,
+            Apellido:Cuenca,
+            Email:craneviter@yahoo.com,
+
+        
+08:13:25 PM:DEBUG [import Persona.py:31] 
+            Id Persona:62,
+            Nombre:Maria,
+            Apellido:Delagracias,
+            Email:mariadelas@hotmail.com,
+
+        
+08:13:26 PM:DEBUG [import Persona.py:31] 
+            Id Persona:63,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+08:13:26 PM:DEBUG [import Persona.py:31] 
+            Id Persona:64,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+08:13:26 PM:DEBUG [import Persona.py:31] 
+            Id Persona:65,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+08:13:26 PM:DEBUG [import Persona.py:31] 
+            Id Persona:66,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+08:13:26 PM:DEBUG [import Persona.py:31] 
+            Id Persona:67,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+08:13:26 PM:DEBUG [import Persona.py:31] 
+            Id Persona:74,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+08:13:26 PM:DEBUG [import Persona.py:31] 
+            Id Persona:75,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+08:13:26 PM:DEBUG [import Persona.py:31] 
+            Id Persona:76,
+            Nombre:Abrillos,
+            Apellido:Cuevitasrojas,
+            Email:JoseAbraham@hotmail.com,
+
+        
+08:13:26 PM:DEBUG [import Persona.py:31] 
+            Id Persona:77,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+08:13:26 PM:DEBUG [import Persona.py:31] 
+            Id Persona:78,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [conexion.py:26] Conexion Exitosa: <connection object at 0x000001999D293450; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+08:13:54 PM:DEBUG [conexion.py:39] Se abrió correctamente el cursor:<cursor object at 0x000001999D36B3E0; closed: 0>
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:4,
+            Nombre:Pablo,
+            Apellido:Sangui,
+            Email:sanp@sjdksaj.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:5,
+            Nombre:Marche,
+            Apellido:Herbie,
+            Email:herbie66@gmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:8,
+            Nombre:Pepito,
+            Apellido:Pistolero,
+            Email:rcarlish@sdksk.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:9,
+            Nombre:Romina,
+            Apellido:Pinotti,
+            Email:rmp@americaonline.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:10,
+            Nombre:Sofia,
+            Apellido:Gonzalez,
+            Email:sofiagonz@yahoo.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:11,
+            Nombre:Jorge,
+            Apellido:Perez,
+            Email:jorgep@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:12,
+            Nombre:Maria,
+            Apellido:Lopez,
+            Email:maria_lopez@gmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:13,
+            Nombre:Fernando,
+            Apellido:Gimenez,
+            Email:fernando.g@example.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:14,
+            Nombre:Ana,
+            Apellido:Ortiz,
+            Email:ana_ortiz@yahoo.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:15,
+            Nombre:Javier,
+            Apellido:Suarez,
+            Email:javisuarez@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:16,
+            Nombre:Valeria,
+            Apellido:Mendoza,
+            Email:valeria.m@outlook.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:17,
+            Nombre:Ricardo,
+            Apellido:Alvarez,
+            Email:ricardo123@gmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:18,
+            Nombre:Paula,
+            Apellido:Ruiz,
+            Email:paular@gmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:19,
+            Nombre:Andres,
+            Apellido:Herrera,
+            Email:andres_h@example.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:20,
+            Nombre:Carolina,
+            Apellido:Torres,
+            Email:caro_torres@yahoo.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:21,
+            Nombre:Sebastian,
+            Apellido:Diaz,
+            Email:sebastian.d@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:22,
+            Nombre:Veronica,
+            Apellido:Sanchez,
+            Email:verosanchez@gmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:23,
+            Nombre:Gustavo,
+            Apellido:Castro,
+            Email:gustavo_castro@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:24,
+            Nombre:Patricia,
+            Apellido:Ramos,
+            Email:patricia_r@gmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:25,
+            Nombre:Diego,
+            Apellido:Pereyra,
+            Email:diego.p@example.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:26,
+            Nombre:Gabriela,
+            Apellido:Moreno,
+            Email:gabriela_moreno@yahoo.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:27,
+            Nombre:Daniel,
+            Apellido:Navarro,
+            Email:danieln@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:28,
+            Nombre:Liliana,
+            Apellido:Flores,
+            Email:liliana.f@example.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:29,
+            Nombre:Martin,
+            Apellido:Vega,
+            Email:martinvega@gmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:30,
+            Nombre:Laura,
+            Apellido:Romero,
+            Email:laurar@yahoo.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:31,
+            Nombre:Francisco,
+            Apellido:Rivas,
+            Email:francisco_rivas@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:32,
+            Nombre:Silvana,
+            Apellido:Luna,
+            Email:silvana.l@example.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:33,
+            Nombre:Hernan,
+            Apellido:Salinas,
+            Email:hernan_s@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:34,
+            Nombre:Alejandra,
+            Apellido:Campos,
+            Email:alejandrac@gmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:35,
+            Nombre:Roberto,
+            Apellido:Paz,
+            Email:robertop@example.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:36,
+            Nombre:Natalia,
+            Apellido:Gutierrez,
+            Email:natalia.gutierrez@yahoo.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:37,
+            Nombre:Federico,
+            Apellido:Molina,
+            Email:federicom@gmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:38,
+            Nombre:Elena,
+            Apellido:Ibanez,
+            Email:elena.ib@example.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:39,
+            Nombre:Rodrigo,
+            Apellido:Mendez,
+            Email:rodrigo_mendez@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:40,
+            Nombre:Monica,
+            Apellido:Ponce,
+            Email:monicap@yahoo.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:41,
+            Nombre:Emilio,
+            Apellido:Aguirre,
+            Email:emilio.a@example.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:42,
+            Nombre:Noelia,
+            Apellido:Carrizo,
+            Email:noelia.carrizo@gmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:43,
+            Nombre:Leandro,
+            Apellido:Correa,
+            Email:leandro_correa@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:44,
+            Nombre:Miriam,
+            Apellido:Bustos,
+            Email:miriamb@gmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:45,
+            Nombre:Cristian,
+            Apellido:Ortiz,
+            Email:cristian.o@example.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:46,
+            Nombre:Florencia,
+            Apellido:Peralta,
+            Email:florenciap@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:47,
+            Nombre:Pablo,
+            Apellido:Soria,
+            Email:pablo_s@example.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:48,
+            Nombre:Viviana,
+            Apellido:Martinez,
+            Email:vivianam@yahoo.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:49,
+            Nombre:Sergio,
+            Apellido:Cabrera,
+            Email:sergio_cabrera@gmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:50,
+            Nombre:Rosa,
+            Apellido:Vidal,
+            Email:rosav@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:51,
+            Nombre:Julian,
+            Apellido:Morales,
+            Email:julianm@example.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:52,
+            Nombre:Mariana,
+            Apellido:Diaz,
+            Email:marianad@gmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:53,
+            Nombre:Nicolas,
+            Apellido:Cardenas,
+            Email:nicolas.c@example.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:54,
+            Nombre:Claudia,
+            Apellido:Rojas,
+            Email:claudiar@yahoo.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:55,
+            Nombre:Esteban,
+            Apellido:Reyes,
+            Email:esteban.r@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:56,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:57,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:58,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:59,
+            Nombre:Marcos,
+            Apellido:Rojo,
+            Email:yacobiti@america.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:60,
+            Nombre:Marcelita,
+            Apellido:Cuenca,
+            Email:craneviter@yahoo.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:62,
+            Nombre:Maria,
+            Apellido:Delagracias,
+            Email:mariadelas@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:63,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:64,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:65,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:66,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:67,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:74,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:75,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:76,
+            Nombre:Abrillos,
+            Apellido:Cuevitasrojas,
+            Email:JoseAbraham@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:77,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+08:13:54 PM:DEBUG [PersonaDao.py:31] 
+            Id Persona:78,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+11:04:47 PM:DEBUG [conexion.py:26] Conexion Exitosa: <connection object at 0x0000022BC0953450; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:04:47 PM:DEBUG [conexion.py:39] Se abrió correctamente el cursor:<cursor object at 0x0000022BC09C34C0; closed: 0>
+11:05:08 PM:DEBUG [conexion.py:26] Conexion Exitosa: <connection object at 0x00000223A83F3450; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:05:08 PM:DEBUG [conexion.py:39] Se abrió correctamente el cursor:<cursor object at 0x00000223A84CB3E0; closed: 0>
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:4,
+            Nombre:Pablo,
+            Apellido:Sangui,
+            Email:sanp@sjdksaj.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:5,
+            Nombre:Marche,
+            Apellido:Herbie,
+            Email:herbie66@gmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:8,
+            Nombre:Pepito,
+            Apellido:Pistolero,
+            Email:rcarlish@sdksk.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:9,
+            Nombre:Romina,
+            Apellido:Pinotti,
+            Email:rmp@americaonline.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:10,
+            Nombre:Sofia,
+            Apellido:Gonzalez,
+            Email:sofiagonz@yahoo.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:11,
+            Nombre:Jorge,
+            Apellido:Perez,
+            Email:jorgep@hotmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:12,
+            Nombre:Maria,
+            Apellido:Lopez,
+            Email:maria_lopez@gmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:13,
+            Nombre:Fernando,
+            Apellido:Gimenez,
+            Email:fernando.g@example.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:14,
+            Nombre:Ana,
+            Apellido:Ortiz,
+            Email:ana_ortiz@yahoo.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:15,
+            Nombre:Javier,
+            Apellido:Suarez,
+            Email:javisuarez@hotmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:16,
+            Nombre:Valeria,
+            Apellido:Mendoza,
+            Email:valeria.m@outlook.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:17,
+            Nombre:Ricardo,
+            Apellido:Alvarez,
+            Email:ricardo123@gmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:18,
+            Nombre:Paula,
+            Apellido:Ruiz,
+            Email:paular@gmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:19,
+            Nombre:Andres,
+            Apellido:Herrera,
+            Email:andres_h@example.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:20,
+            Nombre:Carolina,
+            Apellido:Torres,
+            Email:caro_torres@yahoo.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:21,
+            Nombre:Sebastian,
+            Apellido:Diaz,
+            Email:sebastian.d@hotmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:22,
+            Nombre:Veronica,
+            Apellido:Sanchez,
+            Email:verosanchez@gmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:23,
+            Nombre:Gustavo,
+            Apellido:Castro,
+            Email:gustavo_castro@hotmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:24,
+            Nombre:Patricia,
+            Apellido:Ramos,
+            Email:patricia_r@gmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:25,
+            Nombre:Diego,
+            Apellido:Pereyra,
+            Email:diego.p@example.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:26,
+            Nombre:Gabriela,
+            Apellido:Moreno,
+            Email:gabriela_moreno@yahoo.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:27,
+            Nombre:Daniel,
+            Apellido:Navarro,
+            Email:danieln@hotmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:28,
+            Nombre:Liliana,
+            Apellido:Flores,
+            Email:liliana.f@example.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:29,
+            Nombre:Martin,
+            Apellido:Vega,
+            Email:martinvega@gmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:30,
+            Nombre:Laura,
+            Apellido:Romero,
+            Email:laurar@yahoo.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:31,
+            Nombre:Francisco,
+            Apellido:Rivas,
+            Email:francisco_rivas@hotmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:32,
+            Nombre:Silvana,
+            Apellido:Luna,
+            Email:silvana.l@example.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:33,
+            Nombre:Hernan,
+            Apellido:Salinas,
+            Email:hernan_s@hotmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:34,
+            Nombre:Alejandra,
+            Apellido:Campos,
+            Email:alejandrac@gmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:35,
+            Nombre:Roberto,
+            Apellido:Paz,
+            Email:robertop@example.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:36,
+            Nombre:Natalia,
+            Apellido:Gutierrez,
+            Email:natalia.gutierrez@yahoo.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:37,
+            Nombre:Federico,
+            Apellido:Molina,
+            Email:federicom@gmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:38,
+            Nombre:Elena,
+            Apellido:Ibanez,
+            Email:elena.ib@example.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:39,
+            Nombre:Rodrigo,
+            Apellido:Mendez,
+            Email:rodrigo_mendez@hotmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:40,
+            Nombre:Monica,
+            Apellido:Ponce,
+            Email:monicap@yahoo.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:41,
+            Nombre:Emilio,
+            Apellido:Aguirre,
+            Email:emilio.a@example.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:42,
+            Nombre:Noelia,
+            Apellido:Carrizo,
+            Email:noelia.carrizo@gmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:43,
+            Nombre:Leandro,
+            Apellido:Correa,
+            Email:leandro_correa@hotmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:44,
+            Nombre:Miriam,
+            Apellido:Bustos,
+            Email:miriamb@gmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:45,
+            Nombre:Cristian,
+            Apellido:Ortiz,
+            Email:cristian.o@example.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:46,
+            Nombre:Florencia,
+            Apellido:Peralta,
+            Email:florenciap@hotmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:47,
+            Nombre:Pablo,
+            Apellido:Soria,
+            Email:pablo_s@example.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:48,
+            Nombre:Viviana,
+            Apellido:Martinez,
+            Email:vivianam@yahoo.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:49,
+            Nombre:Sergio,
+            Apellido:Cabrera,
+            Email:sergio_cabrera@gmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:50,
+            Nombre:Rosa,
+            Apellido:Vidal,
+            Email:rosav@hotmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:51,
+            Nombre:Julian,
+            Apellido:Morales,
+            Email:julianm@example.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:52,
+            Nombre:Mariana,
+            Apellido:Diaz,
+            Email:marianad@gmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:53,
+            Nombre:Nicolas,
+            Apellido:Cardenas,
+            Email:nicolas.c@example.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:54,
+            Nombre:Claudia,
+            Apellido:Rojas,
+            Email:claudiar@yahoo.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:55,
+            Nombre:Esteban,
+            Apellido:Reyes,
+            Email:esteban.r@hotmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:56,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:57,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:58,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:59,
+            Nombre:Marcos,
+            Apellido:Rojo,
+            Email:yacobiti@america.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:60,
+            Nombre:Marcelita,
+            Apellido:Cuenca,
+            Email:craneviter@yahoo.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:62,
+            Nombre:Maria,
+            Apellido:Delagracias,
+            Email:mariadelas@hotmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:63,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:64,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:65,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:66,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:67,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:74,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:75,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:76,
+            Nombre:Abrillos,
+            Apellido:Cuevitasrojas,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:77,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+11:05:08 PM:DEBUG [PersonaDao.py:45] 
+            Id Persona:78,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+11:08:29 PM:DEBUG [conexion.py:26] Conexion Exitosa: <connection object at 0x00000202B93B3560; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:08:29 PM:DEBUG [conexion.py:39] Se abrió correctamente el cursor:<cursor object at 0x00000202B948F3E0; closed: 0>
+11:08:29 PM:DEBUG [PersonaDao.py:34] Persona insertada : 
+            Id Persona:6,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:08:29 PM:DEBUG [PersonaDao.py:43] Personas insertadas:1
+11:09:50 PM:DEBUG [conexion.py:26] Conexion Exitosa: <connection object at 0x00000290CD3C3560; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:09:50 PM:DEBUG [conexion.py:39] Se abrió correctamente el cursor:<cursor object at 0x00000290CD49F3E0; closed: 0>
+11:09:50 PM:DEBUG [PersonaDao.py:34] Persona insertada : 
+            Id Persona:6,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:09:50 PM:DEBUG [PersonaDao.py:43] Personas insertadas:1
+10:44:28 AM:DEBUG [cursor_del_pool.py:13] Inicio del metoddo with y __enter__
+10:44:28 AM:DEBUG [conexion.py:40] Creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000193CD01A1B0>
+10:44:28 AM:DEBUG [conexion.py:26] Conexion obtenida del pool: <connection object at 0x00000193CD011BE0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+10:44:28 AM:DEBUG [cursor_del_pool.py:32] Dentro del bloque with 
+10:44:28 AM:DEBUG [cursor_del_pool.py:34] [(10, 'Sofia', 'Gonzalez', 'sofiagonz@yahoo.com'), (11, 'Jorge', 'Perez', 'jorgep@hotmail.com'), (12, 'Maria', 'Lopez', 'maria_lopez@gmail.com'), (13, 'Fernando', 'Gimenez', 'fernando.g@example.com'), (14, 'Ana', 'Ortiz', 'ana_ortiz@yahoo.com'), (15, 'Javier', 'Suarez', 'javisuarez@hotmail.com'), (16, 'Valeria', 'Mendoza', 'valeria.m@outlook.com'), (17, 'Ricardo', 'Alvarez', 'ricardo123@gmail.com'), (18, 'Paula', 'Ruiz', 'paular@gmail.com'), (19, 'Andres', 'Herrera', 'andres_h@example.com'), (20, 'Carolina', 'Torres', 'caro_torres@yahoo.com'), (21, 'Sebastian', 'Diaz', 'sebastian.d@hotmail.com'), (22, 'Veronica', 'Sanchez', 'verosanchez@gmail.com'), (23, 'Gustavo', 'Castro', 'gustavo_castro@hotmail.com'), (24, 'Patricia', 'Ramos', 'patricia_r@gmail.com'), (25, 'Diego', 'Pereyra', 'diego.p@example.com'), (26, 'Gabriela', 'Moreno', 'gabriela_moreno@yahoo.com'), (27, 'Daniel', 'Navarro', 'danieln@hotmail.com'), (28, 'Liliana', 'Flores', 'liliana.f@example.com'), (29, 'Martin', 'Vega', 'martinvega@gmail.com'), (30, 'Laura', 'Romero', 'laurar@yahoo.com'), (31, 'Francisco', 'Rivas', 'francisco_rivas@hotmail.com'), (32, 'Silvana', 'Luna', 'silvana.l@example.com'), (33, 'Hernan', 'Salinas', 'hernan_s@hotmail.com'), (34, 'Alejandra', 'Campos', 'alejandrac@gmail.com'), (35, 'Roberto', 'Paz', 'robertop@example.com'), (36, 'Natalia', 'Gutierrez', 'natalia.gutierrez@yahoo.com'), (37, 'Federico', 'Molina', 'federicom@gmail.com'), (38, 'Elena', 'Ibanez', 'elena.ib@example.com'), (39, 'Rodrigo', 'Mendez', 'rodrigo_mendez@hotmail.com'), (40, 'Monica', 'Ponce', 'monicap@yahoo.com'), (41, 'Emilio', 'Aguirre', 'emilio.a@example.com'), (42, 'Noelia', 'Carrizo', 'noelia.carrizo@gmail.com'), (43, 'Leandro', 'Correa', 'leandro_correa@hotmail.com'), (44, 'Miriam', 'Bustos', 'miriamb@gmail.com'), (45, 'Cristian', 'Ortiz', 'cristian.o@example.com'), (46, 'Florencia', 'Peralta', 'florenciap@hotmail.com'), (47, 'Pablo', 'Soria', 'pablo_s@example.com'), (48, 'Viviana', 'Martinez', 'vivianam@yahoo.com'), (49, 'Sergio', 'Cabrera', 'sergio_cabrera@gmail.com'), (50, 'Rosa', 'Vidal', 'rosav@hotmail.com'), (51, 'Julian', 'Morales', 'julianm@example.com'), (52, 'Mariana', 'Diaz', 'marianad@gmail.com'), (53, 'Nicolas', 'Cardenas', 'nicolas.c@example.com'), (54, 'Claudia', 'Rojas', 'claudiar@yahoo.com'), (55, 'Esteban', 'Reyes', 'esteban.r@hotmail.com'), (56, 'Carlos', 'Larson', 'clara@fjksd.com'), (57, 'Carlos', 'Larson', 'clara@fjksd.com'), (58, 'Carlos', 'Larson', 'clara@fjksd.com'), (59, 'Marcos', 'Rojo', 'yacobiti@america.com'), (60, 'Marcelita', 'Cuenca', 'craneviter@yahoo.com'), (8, 'Pepito', 'Pistolero', 'rcarlish@sdksk.com'), (9, 'Romina', 'Pinotti', 'rmp@americaonline.com'), (62, 'Maria', 'Delagracias', 'mariadelas@hotmail.com'), (63, 'Riffel', 'Cristianosvskys', 'crisrifel@ukrania.com'), (64, 'Riffel', 'Cristianosvskys', 'crisrifel@ukrania.com'), (65, 'Riffel', 'Cristianosvskys', 'crisrifel@ukrania.com'), (66, 'Riffel', 'Cristianosvskys', 'crisrifel@ukrania.com'), (67, 'Riffel', 'Cristianosvskys', 'crisrifel@ukrania.com'), (74, 'Jose', 'Abraham', 'JoseAbraham@hotmail.com'), (75, 'Jose', 'Abraham', 'JoseAbraham@hotmail.com'), (4, 'Pablo', 'Sangui', 'sanp@sjdksaj.com'), (76, 'Abrillos', 'Cuevitasrojas', 'JoseAbraham@hotmail.com'), (77, 'Richardios', 'Fortunatio', 'forturi@hotmail.com'), (78, 'Richardios', 'Fortunatio', 'forturi@hotmail.com'), (5, 'Marche', 'Herbie', 'herbie66@gmail.com'), (79, 'Pepito', 'Romers', 'pepitrosm@hotmail.com'), (80, 'Pepito', 'Romers', 'pepitrosm@hotmail.com'), (81, 'Pepito', 'Romers', 'pepitrosm@hotmail.com'), (82, 'Pepito', 'Romers', 'pepitrosm@hotmail.com'), (83, 'Pepito', 'Romers', 'pepitrosm@hotmail.com'), (84, 'Pepito', 'Romers', 'pepitrosm@hotmail.com'), (85, 'Pepito', 'Romers', 'pepitrosm@hotmail.com'), (86, 'Pepidsadsto', 'Romadsers', 'pepitrosm@hotmail.com'), (87, 'Pablito', 'Sanflo', 'SanshFlow@gmail.com')]
+10:44:28 AM:DEBUG [cursor_del_pool.py:19] Se ejecuta el método exit
+10:44:28 AM:DEBUG [cursor_del_pool.py:25] Commit de la transacción
+10:44:28 AM:DEBUG [conexion.py:49] Regresamos la conexión del pool :<connection object at 0x00000193CD011BE0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+10:59:08 AM:DEBUG [cursor_del_pool.py:13] Inicio del metoddo with y __enter__
+10:59:08 AM:DEBUG [conexion.py:40] Creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000020E70BDB860>
+10:59:08 AM:DEBUG [conexion.py:26] Conexion obtenida del pool: <connection object at 0x0000020E726E5BE0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+10:59:08 AM:DEBUG [cursor_del_pool.py:19] Se ejecuta el método exit
+10:59:08 AM:DEBUG [cursor_del_pool.py:22] Ocurrio una excepción :'module' object is not callable. Did you mean: 'Persona.Persona(...)'?
+10:59:08 AM:DEBUG [conexion.py:49] Regresamos la conexión del pool :<connection object at 0x0000020E726E5BE0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:00:21 AM:DEBUG [cursor_del_pool.py:13] Inicio del metoddo with y __enter__
+11:00:21 AM:DEBUG [conexion.py:40] Creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001A3B1C9DAC0>
+11:00:21 AM:DEBUG [conexion.py:26] Conexion obtenida del pool: <connection object at 0x000001A3B34F5BE0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:00:21 AM:DEBUG [cursor_del_pool.py:19] Se ejecuta el método exit
+11:00:21 AM:DEBUG [cursor_del_pool.py:25] Commit de la transacción
+11:00:21 AM:DEBUG [conexion.py:49] Regresamos la conexión del pool :<connection object at 0x000001A3B34F5BE0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:4,
+            Nombre:Pablo,
+            Apellido:Sangui,
+            Email:sanp@sjdksaj.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:5,
+            Nombre:Marche,
+            Apellido:Herbie,
+            Email:herbie66@gmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:8,
+            Nombre:Pepito,
+            Apellido:Pistolero,
+            Email:rcarlish@sdksk.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:9,
+            Nombre:Romina,
+            Apellido:Pinotti,
+            Email:rmp@americaonline.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:10,
+            Nombre:Sofia,
+            Apellido:Gonzalez,
+            Email:sofiagonz@yahoo.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:11,
+            Nombre:Jorge,
+            Apellido:Perez,
+            Email:jorgep@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:12,
+            Nombre:Maria,
+            Apellido:Lopez,
+            Email:maria_lopez@gmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:13,
+            Nombre:Fernando,
+            Apellido:Gimenez,
+            Email:fernando.g@example.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:14,
+            Nombre:Ana,
+            Apellido:Ortiz,
+            Email:ana_ortiz@yahoo.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:15,
+            Nombre:Javier,
+            Apellido:Suarez,
+            Email:javisuarez@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:16,
+            Nombre:Valeria,
+            Apellido:Mendoza,
+            Email:valeria.m@outlook.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:17,
+            Nombre:Ricardo,
+            Apellido:Alvarez,
+            Email:ricardo123@gmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:18,
+            Nombre:Paula,
+            Apellido:Ruiz,
+            Email:paular@gmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:19,
+            Nombre:Andres,
+            Apellido:Herrera,
+            Email:andres_h@example.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:20,
+            Nombre:Carolina,
+            Apellido:Torres,
+            Email:caro_torres@yahoo.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:21,
+            Nombre:Sebastian,
+            Apellido:Diaz,
+            Email:sebastian.d@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:22,
+            Nombre:Veronica,
+            Apellido:Sanchez,
+            Email:verosanchez@gmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:23,
+            Nombre:Gustavo,
+            Apellido:Castro,
+            Email:gustavo_castro@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:24,
+            Nombre:Patricia,
+            Apellido:Ramos,
+            Email:patricia_r@gmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:25,
+            Nombre:Diego,
+            Apellido:Pereyra,
+            Email:diego.p@example.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:26,
+            Nombre:Gabriela,
+            Apellido:Moreno,
+            Email:gabriela_moreno@yahoo.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:27,
+            Nombre:Daniel,
+            Apellido:Navarro,
+            Email:danieln@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:28,
+            Nombre:Liliana,
+            Apellido:Flores,
+            Email:liliana.f@example.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:29,
+            Nombre:Martin,
+            Apellido:Vega,
+            Email:martinvega@gmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:30,
+            Nombre:Laura,
+            Apellido:Romero,
+            Email:laurar@yahoo.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:31,
+            Nombre:Francisco,
+            Apellido:Rivas,
+            Email:francisco_rivas@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:32,
+            Nombre:Silvana,
+            Apellido:Luna,
+            Email:silvana.l@example.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:33,
+            Nombre:Hernan,
+            Apellido:Salinas,
+            Email:hernan_s@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:34,
+            Nombre:Alejandra,
+            Apellido:Campos,
+            Email:alejandrac@gmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:35,
+            Nombre:Roberto,
+            Apellido:Paz,
+            Email:robertop@example.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:36,
+            Nombre:Natalia,
+            Apellido:Gutierrez,
+            Email:natalia.gutierrez@yahoo.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:37,
+            Nombre:Federico,
+            Apellido:Molina,
+            Email:federicom@gmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:38,
+            Nombre:Elena,
+            Apellido:Ibanez,
+            Email:elena.ib@example.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:39,
+            Nombre:Rodrigo,
+            Apellido:Mendez,
+            Email:rodrigo_mendez@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:40,
+            Nombre:Monica,
+            Apellido:Ponce,
+            Email:monicap@yahoo.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:41,
+            Nombre:Emilio,
+            Apellido:Aguirre,
+            Email:emilio.a@example.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:42,
+            Nombre:Noelia,
+            Apellido:Carrizo,
+            Email:noelia.carrizo@gmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:43,
+            Nombre:Leandro,
+            Apellido:Correa,
+            Email:leandro_correa@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:44,
+            Nombre:Miriam,
+            Apellido:Bustos,
+            Email:miriamb@gmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:45,
+            Nombre:Cristian,
+            Apellido:Ortiz,
+            Email:cristian.o@example.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:46,
+            Nombre:Florencia,
+            Apellido:Peralta,
+            Email:florenciap@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:47,
+            Nombre:Pablo,
+            Apellido:Soria,
+            Email:pablo_s@example.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:48,
+            Nombre:Viviana,
+            Apellido:Martinez,
+            Email:vivianam@yahoo.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:49,
+            Nombre:Sergio,
+            Apellido:Cabrera,
+            Email:sergio_cabrera@gmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:50,
+            Nombre:Rosa,
+            Apellido:Vidal,
+            Email:rosav@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:51,
+            Nombre:Julian,
+            Apellido:Morales,
+            Email:julianm@example.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:52,
+            Nombre:Mariana,
+            Apellido:Diaz,
+            Email:marianad@gmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:53,
+            Nombre:Nicolas,
+            Apellido:Cardenas,
+            Email:nicolas.c@example.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:54,
+            Nombre:Claudia,
+            Apellido:Rojas,
+            Email:claudiar@yahoo.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:55,
+            Nombre:Esteban,
+            Apellido:Reyes,
+            Email:esteban.r@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:56,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:57,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:58,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:59,
+            Nombre:Marcos,
+            Apellido:Rojo,
+            Email:yacobiti@america.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:60,
+            Nombre:Marcelita,
+            Apellido:Cuenca,
+            Email:craneviter@yahoo.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:62,
+            Nombre:Maria,
+            Apellido:Delagracias,
+            Email:mariadelas@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:63,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:64,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:65,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:66,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:67,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:74,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:75,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:76,
+            Nombre:Abrillos,
+            Apellido:Cuevitasrojas,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:77,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:78,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:79,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:80,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:81,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:82,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:83,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:84,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:85,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:86,
+            Nombre:Pepidsadsto,
+            Apellido:Romadsers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:00:21 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:87,
+            Nombre:Pablito,
+            Apellido:Sanflo,
+            Email:SanshFlow@gmail.com,
+
+        
+11:01:39 AM:DEBUG [cursor_del_pool.py:13] Inicio del metoddo with y __enter__
+11:01:39 AM:DEBUG [conexion.py:40] Creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000168386FA1B0>
+11:01:39 AM:DEBUG [conexion.py:26] Conexion obtenida del pool: <connection object at 0x000001683A1D5CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:01:39 AM:DEBUG [persona_dao.py:50] Persona eliminada : 
+            Id Persona:8,
+            Nombre:None,
+            Apellido:None,
+            Email:None,
+
+        
+11:01:39 AM:DEBUG [cursor_del_pool.py:19] Se ejecuta el método exit
+11:01:39 AM:DEBUG [cursor_del_pool.py:25] Commit de la transacción
+11:01:39 AM:DEBUG [conexion.py:49] Regresamos la conexión del pool :<connection object at 0x000001683A1D5CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:01:39 AM:DEBUG [persona_dao.py:57] Personas eliminadas :1
+11:01:39 AM:DEBUG [cursor_del_pool.py:13] Inicio del metoddo with y __enter__
+11:01:39 AM:DEBUG [conexion.py:26] Conexion obtenida del pool: <connection object at 0x000001683A1D5CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:01:39 AM:DEBUG [cursor_del_pool.py:19] Se ejecuta el método exit
+11:01:39 AM:DEBUG [cursor_del_pool.py:25] Commit de la transacción
+11:01:39 AM:DEBUG [conexion.py:49] Regresamos la conexión del pool :<connection object at 0x000001683A1D5CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:4,
+            Nombre:Pablo,
+            Apellido:Sangui,
+            Email:sanp@sjdksaj.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:5,
+            Nombre:Marche,
+            Apellido:Herbie,
+            Email:herbie66@gmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:9,
+            Nombre:Romina,
+            Apellido:Pinotti,
+            Email:rmp@americaonline.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:10,
+            Nombre:Sofia,
+            Apellido:Gonzalez,
+            Email:sofiagonz@yahoo.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:11,
+            Nombre:Jorge,
+            Apellido:Perez,
+            Email:jorgep@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:12,
+            Nombre:Maria,
+            Apellido:Lopez,
+            Email:maria_lopez@gmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:13,
+            Nombre:Fernando,
+            Apellido:Gimenez,
+            Email:fernando.g@example.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:14,
+            Nombre:Ana,
+            Apellido:Ortiz,
+            Email:ana_ortiz@yahoo.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:15,
+            Nombre:Javier,
+            Apellido:Suarez,
+            Email:javisuarez@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:16,
+            Nombre:Valeria,
+            Apellido:Mendoza,
+            Email:valeria.m@outlook.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:17,
+            Nombre:Ricardo,
+            Apellido:Alvarez,
+            Email:ricardo123@gmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:18,
+            Nombre:Paula,
+            Apellido:Ruiz,
+            Email:paular@gmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:19,
+            Nombre:Andres,
+            Apellido:Herrera,
+            Email:andres_h@example.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:20,
+            Nombre:Carolina,
+            Apellido:Torres,
+            Email:caro_torres@yahoo.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:21,
+            Nombre:Sebastian,
+            Apellido:Diaz,
+            Email:sebastian.d@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:22,
+            Nombre:Veronica,
+            Apellido:Sanchez,
+            Email:verosanchez@gmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:23,
+            Nombre:Gustavo,
+            Apellido:Castro,
+            Email:gustavo_castro@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:24,
+            Nombre:Patricia,
+            Apellido:Ramos,
+            Email:patricia_r@gmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:25,
+            Nombre:Diego,
+            Apellido:Pereyra,
+            Email:diego.p@example.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:26,
+            Nombre:Gabriela,
+            Apellido:Moreno,
+            Email:gabriela_moreno@yahoo.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:27,
+            Nombre:Daniel,
+            Apellido:Navarro,
+            Email:danieln@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:28,
+            Nombre:Liliana,
+            Apellido:Flores,
+            Email:liliana.f@example.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:29,
+            Nombre:Martin,
+            Apellido:Vega,
+            Email:martinvega@gmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:30,
+            Nombre:Laura,
+            Apellido:Romero,
+            Email:laurar@yahoo.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:31,
+            Nombre:Francisco,
+            Apellido:Rivas,
+            Email:francisco_rivas@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:32,
+            Nombre:Silvana,
+            Apellido:Luna,
+            Email:silvana.l@example.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:33,
+            Nombre:Hernan,
+            Apellido:Salinas,
+            Email:hernan_s@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:34,
+            Nombre:Alejandra,
+            Apellido:Campos,
+            Email:alejandrac@gmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:35,
+            Nombre:Roberto,
+            Apellido:Paz,
+            Email:robertop@example.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:36,
+            Nombre:Natalia,
+            Apellido:Gutierrez,
+            Email:natalia.gutierrez@yahoo.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:37,
+            Nombre:Federico,
+            Apellido:Molina,
+            Email:federicom@gmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:38,
+            Nombre:Elena,
+            Apellido:Ibanez,
+            Email:elena.ib@example.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:39,
+            Nombre:Rodrigo,
+            Apellido:Mendez,
+            Email:rodrigo_mendez@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:40,
+            Nombre:Monica,
+            Apellido:Ponce,
+            Email:monicap@yahoo.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:41,
+            Nombre:Emilio,
+            Apellido:Aguirre,
+            Email:emilio.a@example.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:42,
+            Nombre:Noelia,
+            Apellido:Carrizo,
+            Email:noelia.carrizo@gmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:43,
+            Nombre:Leandro,
+            Apellido:Correa,
+            Email:leandro_correa@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:44,
+            Nombre:Miriam,
+            Apellido:Bustos,
+            Email:miriamb@gmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:45,
+            Nombre:Cristian,
+            Apellido:Ortiz,
+            Email:cristian.o@example.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:46,
+            Nombre:Florencia,
+            Apellido:Peralta,
+            Email:florenciap@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:47,
+            Nombre:Pablo,
+            Apellido:Soria,
+            Email:pablo_s@example.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:48,
+            Nombre:Viviana,
+            Apellido:Martinez,
+            Email:vivianam@yahoo.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:49,
+            Nombre:Sergio,
+            Apellido:Cabrera,
+            Email:sergio_cabrera@gmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:50,
+            Nombre:Rosa,
+            Apellido:Vidal,
+            Email:rosav@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:51,
+            Nombre:Julian,
+            Apellido:Morales,
+            Email:julianm@example.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:52,
+            Nombre:Mariana,
+            Apellido:Diaz,
+            Email:marianad@gmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:53,
+            Nombre:Nicolas,
+            Apellido:Cardenas,
+            Email:nicolas.c@example.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:54,
+            Nombre:Claudia,
+            Apellido:Rojas,
+            Email:claudiar@yahoo.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:55,
+            Nombre:Esteban,
+            Apellido:Reyes,
+            Email:esteban.r@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:56,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:57,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:58,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:59,
+            Nombre:Marcos,
+            Apellido:Rojo,
+            Email:yacobiti@america.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:60,
+            Nombre:Marcelita,
+            Apellido:Cuenca,
+            Email:craneviter@yahoo.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:62,
+            Nombre:Maria,
+            Apellido:Delagracias,
+            Email:mariadelas@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:63,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:64,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:65,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:66,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:67,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:74,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:75,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:76,
+            Nombre:Abrillos,
+            Apellido:Cuevitasrojas,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:77,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:78,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:79,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:80,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:81,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:82,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:83,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:84,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:85,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:86,
+            Nombre:Pepidsadsto,
+            Apellido:Romadsers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:01:39 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:87,
+            Nombre:Pablito,
+            Apellido:Sanflo,
+            Email:SanshFlow@gmail.com,
+
+        
+11:03:03 AM:DEBUG [cursor_del_pool.py:13] Inicio del metoddo with y __enter__
+11:03:03 AM:DEBUG [conexion.py:40] Creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001CE23138740>
+11:03:03 AM:DEBUG [conexion.py:26] Conexion obtenida del pool: <connection object at 0x000001CE230D5CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:03:03 AM:DEBUG [persona_dao.py:41] Persona actualizada : 
+            Id Persona:4,
+            Nombre:Pedris,
+            Apellido:Sanchus,
+            Email:dahsda@sdsd.com,
+
+        
+11:03:03 AM:DEBUG [cursor_del_pool.py:19] Se ejecuta el método exit
+11:03:03 AM:DEBUG [cursor_del_pool.py:25] Commit de la transacción
+11:03:03 AM:DEBUG [conexion.py:49] Regresamos la conexión del pool :<connection object at 0x000001CE230D5CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:03:03 AM:DEBUG [persona_dao.py:62] Personas actualizadas:1
+11:03:03 AM:DEBUG [cursor_del_pool.py:13] Inicio del metoddo with y __enter__
+11:03:03 AM:DEBUG [conexion.py:26] Conexion obtenida del pool: <connection object at 0x000001CE230D5CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:03:03 AM:DEBUG [cursor_del_pool.py:19] Se ejecuta el método exit
+11:03:03 AM:DEBUG [cursor_del_pool.py:25] Commit de la transacción
+11:03:03 AM:DEBUG [conexion.py:49] Regresamos la conexión del pool :<connection object at 0x000001CE230D5CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:4,
+            Nombre:Pedris,
+            Apellido:Sanchus,
+            Email:dahsda@sdsd.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:5,
+            Nombre:Marche,
+            Apellido:Herbie,
+            Email:herbie66@gmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:9,
+            Nombre:Romina,
+            Apellido:Pinotti,
+            Email:rmp@americaonline.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:10,
+            Nombre:Sofia,
+            Apellido:Gonzalez,
+            Email:sofiagonz@yahoo.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:11,
+            Nombre:Jorge,
+            Apellido:Perez,
+            Email:jorgep@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:12,
+            Nombre:Maria,
+            Apellido:Lopez,
+            Email:maria_lopez@gmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:13,
+            Nombre:Fernando,
+            Apellido:Gimenez,
+            Email:fernando.g@example.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:14,
+            Nombre:Ana,
+            Apellido:Ortiz,
+            Email:ana_ortiz@yahoo.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:15,
+            Nombre:Javier,
+            Apellido:Suarez,
+            Email:javisuarez@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:16,
+            Nombre:Valeria,
+            Apellido:Mendoza,
+            Email:valeria.m@outlook.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:17,
+            Nombre:Ricardo,
+            Apellido:Alvarez,
+            Email:ricardo123@gmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:18,
+            Nombre:Paula,
+            Apellido:Ruiz,
+            Email:paular@gmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:19,
+            Nombre:Andres,
+            Apellido:Herrera,
+            Email:andres_h@example.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:20,
+            Nombre:Carolina,
+            Apellido:Torres,
+            Email:caro_torres@yahoo.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:21,
+            Nombre:Sebastian,
+            Apellido:Diaz,
+            Email:sebastian.d@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:22,
+            Nombre:Veronica,
+            Apellido:Sanchez,
+            Email:verosanchez@gmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:23,
+            Nombre:Gustavo,
+            Apellido:Castro,
+            Email:gustavo_castro@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:24,
+            Nombre:Patricia,
+            Apellido:Ramos,
+            Email:patricia_r@gmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:25,
+            Nombre:Diego,
+            Apellido:Pereyra,
+            Email:diego.p@example.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:26,
+            Nombre:Gabriela,
+            Apellido:Moreno,
+            Email:gabriela_moreno@yahoo.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:27,
+            Nombre:Daniel,
+            Apellido:Navarro,
+            Email:danieln@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:28,
+            Nombre:Liliana,
+            Apellido:Flores,
+            Email:liliana.f@example.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:29,
+            Nombre:Martin,
+            Apellido:Vega,
+            Email:martinvega@gmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:30,
+            Nombre:Laura,
+            Apellido:Romero,
+            Email:laurar@yahoo.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:31,
+            Nombre:Francisco,
+            Apellido:Rivas,
+            Email:francisco_rivas@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:32,
+            Nombre:Silvana,
+            Apellido:Luna,
+            Email:silvana.l@example.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:33,
+            Nombre:Hernan,
+            Apellido:Salinas,
+            Email:hernan_s@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:34,
+            Nombre:Alejandra,
+            Apellido:Campos,
+            Email:alejandrac@gmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:35,
+            Nombre:Roberto,
+            Apellido:Paz,
+            Email:robertop@example.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:36,
+            Nombre:Natalia,
+            Apellido:Gutierrez,
+            Email:natalia.gutierrez@yahoo.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:37,
+            Nombre:Federico,
+            Apellido:Molina,
+            Email:federicom@gmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:38,
+            Nombre:Elena,
+            Apellido:Ibanez,
+            Email:elena.ib@example.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:39,
+            Nombre:Rodrigo,
+            Apellido:Mendez,
+            Email:rodrigo_mendez@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:40,
+            Nombre:Monica,
+            Apellido:Ponce,
+            Email:monicap@yahoo.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:41,
+            Nombre:Emilio,
+            Apellido:Aguirre,
+            Email:emilio.a@example.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:42,
+            Nombre:Noelia,
+            Apellido:Carrizo,
+            Email:noelia.carrizo@gmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:43,
+            Nombre:Leandro,
+            Apellido:Correa,
+            Email:leandro_correa@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:44,
+            Nombre:Miriam,
+            Apellido:Bustos,
+            Email:miriamb@gmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:45,
+            Nombre:Cristian,
+            Apellido:Ortiz,
+            Email:cristian.o@example.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:46,
+            Nombre:Florencia,
+            Apellido:Peralta,
+            Email:florenciap@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:47,
+            Nombre:Pablo,
+            Apellido:Soria,
+            Email:pablo_s@example.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:48,
+            Nombre:Viviana,
+            Apellido:Martinez,
+            Email:vivianam@yahoo.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:49,
+            Nombre:Sergio,
+            Apellido:Cabrera,
+            Email:sergio_cabrera@gmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:50,
+            Nombre:Rosa,
+            Apellido:Vidal,
+            Email:rosav@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:51,
+            Nombre:Julian,
+            Apellido:Morales,
+            Email:julianm@example.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:52,
+            Nombre:Mariana,
+            Apellido:Diaz,
+            Email:marianad@gmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:53,
+            Nombre:Nicolas,
+            Apellido:Cardenas,
+            Email:nicolas.c@example.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:54,
+            Nombre:Claudia,
+            Apellido:Rojas,
+            Email:claudiar@yahoo.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:55,
+            Nombre:Esteban,
+            Apellido:Reyes,
+            Email:esteban.r@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:56,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:57,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:58,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:59,
+            Nombre:Marcos,
+            Apellido:Rojo,
+            Email:yacobiti@america.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:60,
+            Nombre:Marcelita,
+            Apellido:Cuenca,
+            Email:craneviter@yahoo.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:62,
+            Nombre:Maria,
+            Apellido:Delagracias,
+            Email:mariadelas@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:63,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:64,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:65,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:66,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:67,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:74,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:75,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:76,
+            Nombre:Abrillos,
+            Apellido:Cuevitasrojas,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:77,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:78,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:79,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:80,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:81,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:82,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:83,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:84,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:85,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:86,
+            Nombre:Pepidsadsto,
+            Apellido:Romadsers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:03:03 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:87,
+            Nombre:Pablito,
+            Apellido:Sanflo,
+            Email:SanshFlow@gmail.com,
+
+        
+11:03:21 AM:DEBUG [cursor_del_pool.py:13] Inicio del metoddo with y __enter__
+11:03:22 AM:DEBUG [conexion.py:40] Creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001B579A3DAC0>
+11:03:22 AM:DEBUG [conexion.py:26] Conexion obtenida del pool: <connection object at 0x000001B57B2B5BE0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:03:22 AM:DEBUG [cursor_del_pool.py:19] Se ejecuta el método exit
+11:03:22 AM:DEBUG [cursor_del_pool.py:25] Commit de la transacción
+11:03:22 AM:DEBUG [conexion.py:49] Regresamos la conexión del pool :<connection object at 0x000001B57B2B5BE0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:4,
+            Nombre:Pedris,
+            Apellido:Sanchus,
+            Email:dahsda@sdsd.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:5,
+            Nombre:Marche,
+            Apellido:Herbie,
+            Email:herbie66@gmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:9,
+            Nombre:Romina,
+            Apellido:Pinotti,
+            Email:rmp@americaonline.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:10,
+            Nombre:Sofia,
+            Apellido:Gonzalez,
+            Email:sofiagonz@yahoo.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:11,
+            Nombre:Jorge,
+            Apellido:Perez,
+            Email:jorgep@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:12,
+            Nombre:Maria,
+            Apellido:Lopez,
+            Email:maria_lopez@gmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:13,
+            Nombre:Fernando,
+            Apellido:Gimenez,
+            Email:fernando.g@example.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:14,
+            Nombre:Ana,
+            Apellido:Ortiz,
+            Email:ana_ortiz@yahoo.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:15,
+            Nombre:Javier,
+            Apellido:Suarez,
+            Email:javisuarez@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:16,
+            Nombre:Valeria,
+            Apellido:Mendoza,
+            Email:valeria.m@outlook.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:17,
+            Nombre:Ricardo,
+            Apellido:Alvarez,
+            Email:ricardo123@gmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:18,
+            Nombre:Paula,
+            Apellido:Ruiz,
+            Email:paular@gmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:19,
+            Nombre:Andres,
+            Apellido:Herrera,
+            Email:andres_h@example.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:20,
+            Nombre:Carolina,
+            Apellido:Torres,
+            Email:caro_torres@yahoo.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:21,
+            Nombre:Sebastian,
+            Apellido:Diaz,
+            Email:sebastian.d@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:22,
+            Nombre:Veronica,
+            Apellido:Sanchez,
+            Email:verosanchez@gmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:23,
+            Nombre:Gustavo,
+            Apellido:Castro,
+            Email:gustavo_castro@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:24,
+            Nombre:Patricia,
+            Apellido:Ramos,
+            Email:patricia_r@gmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:25,
+            Nombre:Diego,
+            Apellido:Pereyra,
+            Email:diego.p@example.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:26,
+            Nombre:Gabriela,
+            Apellido:Moreno,
+            Email:gabriela_moreno@yahoo.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:27,
+            Nombre:Daniel,
+            Apellido:Navarro,
+            Email:danieln@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:28,
+            Nombre:Liliana,
+            Apellido:Flores,
+            Email:liliana.f@example.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:29,
+            Nombre:Martin,
+            Apellido:Vega,
+            Email:martinvega@gmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:30,
+            Nombre:Laura,
+            Apellido:Romero,
+            Email:laurar@yahoo.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:31,
+            Nombre:Francisco,
+            Apellido:Rivas,
+            Email:francisco_rivas@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:32,
+            Nombre:Silvana,
+            Apellido:Luna,
+            Email:silvana.l@example.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:33,
+            Nombre:Hernan,
+            Apellido:Salinas,
+            Email:hernan_s@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:34,
+            Nombre:Alejandra,
+            Apellido:Campos,
+            Email:alejandrac@gmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:35,
+            Nombre:Roberto,
+            Apellido:Paz,
+            Email:robertop@example.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:36,
+            Nombre:Natalia,
+            Apellido:Gutierrez,
+            Email:natalia.gutierrez@yahoo.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:37,
+            Nombre:Federico,
+            Apellido:Molina,
+            Email:federicom@gmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:38,
+            Nombre:Elena,
+            Apellido:Ibanez,
+            Email:elena.ib@example.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:39,
+            Nombre:Rodrigo,
+            Apellido:Mendez,
+            Email:rodrigo_mendez@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:40,
+            Nombre:Monica,
+            Apellido:Ponce,
+            Email:monicap@yahoo.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:41,
+            Nombre:Emilio,
+            Apellido:Aguirre,
+            Email:emilio.a@example.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:42,
+            Nombre:Noelia,
+            Apellido:Carrizo,
+            Email:noelia.carrizo@gmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:43,
+            Nombre:Leandro,
+            Apellido:Correa,
+            Email:leandro_correa@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:44,
+            Nombre:Miriam,
+            Apellido:Bustos,
+            Email:miriamb@gmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:45,
+            Nombre:Cristian,
+            Apellido:Ortiz,
+            Email:cristian.o@example.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:46,
+            Nombre:Florencia,
+            Apellido:Peralta,
+            Email:florenciap@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:47,
+            Nombre:Pablo,
+            Apellido:Soria,
+            Email:pablo_s@example.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:48,
+            Nombre:Viviana,
+            Apellido:Martinez,
+            Email:vivianam@yahoo.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:49,
+            Nombre:Sergio,
+            Apellido:Cabrera,
+            Email:sergio_cabrera@gmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:50,
+            Nombre:Rosa,
+            Apellido:Vidal,
+            Email:rosav@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:51,
+            Nombre:Julian,
+            Apellido:Morales,
+            Email:julianm@example.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:52,
+            Nombre:Mariana,
+            Apellido:Diaz,
+            Email:marianad@gmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:53,
+            Nombre:Nicolas,
+            Apellido:Cardenas,
+            Email:nicolas.c@example.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:54,
+            Nombre:Claudia,
+            Apellido:Rojas,
+            Email:claudiar@yahoo.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:55,
+            Nombre:Esteban,
+            Apellido:Reyes,
+            Email:esteban.r@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:56,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:57,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:58,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:59,
+            Nombre:Marcos,
+            Apellido:Rojo,
+            Email:yacobiti@america.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:60,
+            Nombre:Marcelita,
+            Apellido:Cuenca,
+            Email:craneviter@yahoo.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:62,
+            Nombre:Maria,
+            Apellido:Delagracias,
+            Email:mariadelas@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:63,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:64,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:65,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:66,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:67,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:74,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:75,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:76,
+            Nombre:Abrillos,
+            Apellido:Cuevitasrojas,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:77,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:78,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:79,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:80,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:81,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:82,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:83,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:84,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:85,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:86,
+            Nombre:Pepidsadsto,
+            Apellido:Romadsers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:03:22 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:87,
+            Nombre:Pablito,
+            Apellido:Sanflo,
+            Email:SanshFlow@gmail.com,
+
+        
+11:33:49 AM:DEBUG [cursor_del_pool.py:13] Inicio del metoddo with y __enter__
+11:33:50 AM:DEBUG [conexion.py:40] Creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000019BD39E5EE0>
+11:33:50 AM:DEBUG [conexion.py:26] Conexion obtenida del pool: <connection object at 0x0000019BD39B5CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:33:50 AM:DEBUG [persona_dao.py:33] Persona insertada : 
+            Id Persona:88,
+            Nombre:Betty,
+            Apellido:Bu,
+            Email:BettyBu@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [cursor_del_pool.py:19] Se ejecuta el método exit
+11:33:50 AM:DEBUG [cursor_del_pool.py:25] Commit de la transacción
+11:33:50 AM:DEBUG [conexion.py:49] Regresamos la conexión del pool :<connection object at 0x0000019BD39B5CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:33:50 AM:DEBUG [persona_dao.py:69] Personas insertadas:1
+11:33:50 AM:DEBUG [cursor_del_pool.py:13] Inicio del metoddo with y __enter__
+11:33:50 AM:DEBUG [conexion.py:26] Conexion obtenida del pool: <connection object at 0x0000019BD39B5CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:33:50 AM:DEBUG [cursor_del_pool.py:19] Se ejecuta el método exit
+11:33:50 AM:DEBUG [cursor_del_pool.py:25] Commit de la transacción
+11:33:50 AM:DEBUG [conexion.py:49] Regresamos la conexión del pool :<connection object at 0x0000019BD39B5CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:4,
+            Nombre:Pedris,
+            Apellido:Sanchus,
+            Email:dahsda@sdsd.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:5,
+            Nombre:Marche,
+            Apellido:Herbie,
+            Email:herbie66@gmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:9,
+            Nombre:Romina,
+            Apellido:Pinotti,
+            Email:rmp@americaonline.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:10,
+            Nombre:Sofia,
+            Apellido:Gonzalez,
+            Email:sofiagonz@yahoo.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:11,
+            Nombre:Jorge,
+            Apellido:Perez,
+            Email:jorgep@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:12,
+            Nombre:Maria,
+            Apellido:Lopez,
+            Email:maria_lopez@gmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:13,
+            Nombre:Fernando,
+            Apellido:Gimenez,
+            Email:fernando.g@example.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:14,
+            Nombre:Ana,
+            Apellido:Ortiz,
+            Email:ana_ortiz@yahoo.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:15,
+            Nombre:Javier,
+            Apellido:Suarez,
+            Email:javisuarez@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:16,
+            Nombre:Valeria,
+            Apellido:Mendoza,
+            Email:valeria.m@outlook.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:17,
+            Nombre:Ricardo,
+            Apellido:Alvarez,
+            Email:ricardo123@gmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:18,
+            Nombre:Paula,
+            Apellido:Ruiz,
+            Email:paular@gmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:19,
+            Nombre:Andres,
+            Apellido:Herrera,
+            Email:andres_h@example.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:20,
+            Nombre:Carolina,
+            Apellido:Torres,
+            Email:caro_torres@yahoo.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:21,
+            Nombre:Sebastian,
+            Apellido:Diaz,
+            Email:sebastian.d@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:22,
+            Nombre:Veronica,
+            Apellido:Sanchez,
+            Email:verosanchez@gmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:23,
+            Nombre:Gustavo,
+            Apellido:Castro,
+            Email:gustavo_castro@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:24,
+            Nombre:Patricia,
+            Apellido:Ramos,
+            Email:patricia_r@gmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:25,
+            Nombre:Diego,
+            Apellido:Pereyra,
+            Email:diego.p@example.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:26,
+            Nombre:Gabriela,
+            Apellido:Moreno,
+            Email:gabriela_moreno@yahoo.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:27,
+            Nombre:Daniel,
+            Apellido:Navarro,
+            Email:danieln@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:28,
+            Nombre:Liliana,
+            Apellido:Flores,
+            Email:liliana.f@example.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:29,
+            Nombre:Martin,
+            Apellido:Vega,
+            Email:martinvega@gmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:30,
+            Nombre:Laura,
+            Apellido:Romero,
+            Email:laurar@yahoo.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:31,
+            Nombre:Francisco,
+            Apellido:Rivas,
+            Email:francisco_rivas@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:32,
+            Nombre:Silvana,
+            Apellido:Luna,
+            Email:silvana.l@example.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:33,
+            Nombre:Hernan,
+            Apellido:Salinas,
+            Email:hernan_s@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:34,
+            Nombre:Alejandra,
+            Apellido:Campos,
+            Email:alejandrac@gmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:35,
+            Nombre:Roberto,
+            Apellido:Paz,
+            Email:robertop@example.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:36,
+            Nombre:Natalia,
+            Apellido:Gutierrez,
+            Email:natalia.gutierrez@yahoo.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:37,
+            Nombre:Federico,
+            Apellido:Molina,
+            Email:federicom@gmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:38,
+            Nombre:Elena,
+            Apellido:Ibanez,
+            Email:elena.ib@example.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:39,
+            Nombre:Rodrigo,
+            Apellido:Mendez,
+            Email:rodrigo_mendez@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:40,
+            Nombre:Monica,
+            Apellido:Ponce,
+            Email:monicap@yahoo.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:41,
+            Nombre:Emilio,
+            Apellido:Aguirre,
+            Email:emilio.a@example.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:42,
+            Nombre:Noelia,
+            Apellido:Carrizo,
+            Email:noelia.carrizo@gmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:43,
+            Nombre:Leandro,
+            Apellido:Correa,
+            Email:leandro_correa@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:44,
+            Nombre:Miriam,
+            Apellido:Bustos,
+            Email:miriamb@gmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:45,
+            Nombre:Cristian,
+            Apellido:Ortiz,
+            Email:cristian.o@example.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:46,
+            Nombre:Florencia,
+            Apellido:Peralta,
+            Email:florenciap@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:47,
+            Nombre:Pablo,
+            Apellido:Soria,
+            Email:pablo_s@example.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:48,
+            Nombre:Viviana,
+            Apellido:Martinez,
+            Email:vivianam@yahoo.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:49,
+            Nombre:Sergio,
+            Apellido:Cabrera,
+            Email:sergio_cabrera@gmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:50,
+            Nombre:Rosa,
+            Apellido:Vidal,
+            Email:rosav@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:51,
+            Nombre:Julian,
+            Apellido:Morales,
+            Email:julianm@example.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:52,
+            Nombre:Mariana,
+            Apellido:Diaz,
+            Email:marianad@gmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:53,
+            Nombre:Nicolas,
+            Apellido:Cardenas,
+            Email:nicolas.c@example.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:54,
+            Nombre:Claudia,
+            Apellido:Rojas,
+            Email:claudiar@yahoo.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:55,
+            Nombre:Esteban,
+            Apellido:Reyes,
+            Email:esteban.r@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:56,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:57,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:58,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:59,
+            Nombre:Marcos,
+            Apellido:Rojo,
+            Email:yacobiti@america.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:60,
+            Nombre:Marcelita,
+            Apellido:Cuenca,
+            Email:craneviter@yahoo.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:62,
+            Nombre:Maria,
+            Apellido:Delagracias,
+            Email:mariadelas@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:63,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:64,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:65,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:66,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:67,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:74,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:75,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:76,
+            Nombre:Abrillos,
+            Apellido:Cuevitasrojas,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:77,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:78,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:79,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:80,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:81,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:82,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:83,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:84,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:85,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:86,
+            Nombre:Pepidsadsto,
+            Apellido:Romadsers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:87,
+            Nombre:Pablito,
+            Apellido:Sanflo,
+            Email:SanshFlow@gmail.com,
+
+        
+11:33:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:90,
+            Nombre:Betty,
+            Apellido:Bu,
+            Email:BettyBu@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [cursor_del_pool.py:13] Inicio del metoddo with y __enter__
+11:38:50 AM:DEBUG [conexion.py:40] Creacion del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001EBE60B5AC0>
+11:38:50 AM:DEBUG [conexion.py:26] Conexion obtenida del pool: <connection object at 0x000001EBE7B19CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:38:50 AM:DEBUG [persona_dao.py:50] Persona eliminada : 
+            Id Persona:86,
+            Nombre:None,
+            Apellido:None,
+            Email:None,
+
+        
+11:38:50 AM:DEBUG [cursor_del_pool.py:19] Se ejecuta el método exit
+11:38:50 AM:DEBUG [cursor_del_pool.py:25] Commit de la transacción
+11:38:50 AM:DEBUG [conexion.py:49] Regresamos la conexión del pool :<connection object at 0x000001EBE7B19CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:38:50 AM:DEBUG [persona_dao.py:57] Personas eliminadas :1
+11:38:50 AM:DEBUG [cursor_del_pool.py:13] Inicio del metoddo with y __enter__
+11:38:50 AM:DEBUG [conexion.py:26] Conexion obtenida del pool: <connection object at 0x000001EBE7B19CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:38:50 AM:DEBUG [persona_dao.py:41] Persona actualizada : 
+            Id Persona:88,
+            Nombre:Pertis,
+            Apellido:Sales,
+            Email:salesperts@sdsd.com,
+
+        
+11:38:50 AM:DEBUG [cursor_del_pool.py:19] Se ejecuta el método exit
+11:38:50 AM:DEBUG [cursor_del_pool.py:25] Commit de la transacción
+11:38:50 AM:DEBUG [conexion.py:49] Regresamos la conexión del pool :<connection object at 0x000001EBE7B19CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:38:50 AM:DEBUG [persona_dao.py:62] Personas actualizadas:0
+11:38:50 AM:DEBUG [cursor_del_pool.py:13] Inicio del metoddo with y __enter__
+11:38:50 AM:DEBUG [conexion.py:26] Conexion obtenida del pool: <connection object at 0x000001EBE7B19CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:38:50 AM:DEBUG [cursor_del_pool.py:19] Se ejecuta el método exit
+11:38:50 AM:DEBUG [cursor_del_pool.py:25] Commit de la transacción
+11:38:50 AM:DEBUG [conexion.py:49] Regresamos la conexión del pool :<connection object at 0x000001EBE7B19CF0; dsn: 'user=postgres password=xxx dbname=test_bd host=127.0.0.1 port=5432', closed: 0>
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:4,
+            Nombre:Pedris,
+            Apellido:Sanchus,
+            Email:dahsda@sdsd.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:5,
+            Nombre:Marche,
+            Apellido:Herbie,
+            Email:herbie66@gmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:9,
+            Nombre:Romina,
+            Apellido:Pinotti,
+            Email:rmp@americaonline.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:10,
+            Nombre:Sofia,
+            Apellido:Gonzalez,
+            Email:sofiagonz@yahoo.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:11,
+            Nombre:Jorge,
+            Apellido:Perez,
+            Email:jorgep@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:12,
+            Nombre:Maria,
+            Apellido:Lopez,
+            Email:maria_lopez@gmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:13,
+            Nombre:Fernando,
+            Apellido:Gimenez,
+            Email:fernando.g@example.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:14,
+            Nombre:Ana,
+            Apellido:Ortiz,
+            Email:ana_ortiz@yahoo.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:15,
+            Nombre:Javier,
+            Apellido:Suarez,
+            Email:javisuarez@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:16,
+            Nombre:Valeria,
+            Apellido:Mendoza,
+            Email:valeria.m@outlook.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:17,
+            Nombre:Ricardo,
+            Apellido:Alvarez,
+            Email:ricardo123@gmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:18,
+            Nombre:Paula,
+            Apellido:Ruiz,
+            Email:paular@gmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:19,
+            Nombre:Andres,
+            Apellido:Herrera,
+            Email:andres_h@example.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:20,
+            Nombre:Carolina,
+            Apellido:Torres,
+            Email:caro_torres@yahoo.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:21,
+            Nombre:Sebastian,
+            Apellido:Diaz,
+            Email:sebastian.d@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:22,
+            Nombre:Veronica,
+            Apellido:Sanchez,
+            Email:verosanchez@gmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:23,
+            Nombre:Gustavo,
+            Apellido:Castro,
+            Email:gustavo_castro@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:24,
+            Nombre:Patricia,
+            Apellido:Ramos,
+            Email:patricia_r@gmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:25,
+            Nombre:Diego,
+            Apellido:Pereyra,
+            Email:diego.p@example.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:26,
+            Nombre:Gabriela,
+            Apellido:Moreno,
+            Email:gabriela_moreno@yahoo.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:27,
+            Nombre:Daniel,
+            Apellido:Navarro,
+            Email:danieln@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:28,
+            Nombre:Liliana,
+            Apellido:Flores,
+            Email:liliana.f@example.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:29,
+            Nombre:Martin,
+            Apellido:Vega,
+            Email:martinvega@gmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:30,
+            Nombre:Laura,
+            Apellido:Romero,
+            Email:laurar@yahoo.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:31,
+            Nombre:Francisco,
+            Apellido:Rivas,
+            Email:francisco_rivas@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:32,
+            Nombre:Silvana,
+            Apellido:Luna,
+            Email:silvana.l@example.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:33,
+            Nombre:Hernan,
+            Apellido:Salinas,
+            Email:hernan_s@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:34,
+            Nombre:Alejandra,
+            Apellido:Campos,
+            Email:alejandrac@gmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:35,
+            Nombre:Roberto,
+            Apellido:Paz,
+            Email:robertop@example.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:36,
+            Nombre:Natalia,
+            Apellido:Gutierrez,
+            Email:natalia.gutierrez@yahoo.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:37,
+            Nombre:Federico,
+            Apellido:Molina,
+            Email:federicom@gmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:38,
+            Nombre:Elena,
+            Apellido:Ibanez,
+            Email:elena.ib@example.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:39,
+            Nombre:Rodrigo,
+            Apellido:Mendez,
+            Email:rodrigo_mendez@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:40,
+            Nombre:Monica,
+            Apellido:Ponce,
+            Email:monicap@yahoo.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:41,
+            Nombre:Emilio,
+            Apellido:Aguirre,
+            Email:emilio.a@example.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:42,
+            Nombre:Noelia,
+            Apellido:Carrizo,
+            Email:noelia.carrizo@gmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:43,
+            Nombre:Leandro,
+            Apellido:Correa,
+            Email:leandro_correa@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:44,
+            Nombre:Miriam,
+            Apellido:Bustos,
+            Email:miriamb@gmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:45,
+            Nombre:Cristian,
+            Apellido:Ortiz,
+            Email:cristian.o@example.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:46,
+            Nombre:Florencia,
+            Apellido:Peralta,
+            Email:florenciap@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:47,
+            Nombre:Pablo,
+            Apellido:Soria,
+            Email:pablo_s@example.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:48,
+            Nombre:Viviana,
+            Apellido:Martinez,
+            Email:vivianam@yahoo.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:49,
+            Nombre:Sergio,
+            Apellido:Cabrera,
+            Email:sergio_cabrera@gmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:50,
+            Nombre:Rosa,
+            Apellido:Vidal,
+            Email:rosav@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:51,
+            Nombre:Julian,
+            Apellido:Morales,
+            Email:julianm@example.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:52,
+            Nombre:Mariana,
+            Apellido:Diaz,
+            Email:marianad@gmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:53,
+            Nombre:Nicolas,
+            Apellido:Cardenas,
+            Email:nicolas.c@example.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:54,
+            Nombre:Claudia,
+            Apellido:Rojas,
+            Email:claudiar@yahoo.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:55,
+            Nombre:Esteban,
+            Apellido:Reyes,
+            Email:esteban.r@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:56,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:57,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:58,
+            Nombre:Carlos,
+            Apellido:Larson,
+            Email:clara@fjksd.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:59,
+            Nombre:Marcos,
+            Apellido:Rojo,
+            Email:yacobiti@america.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:60,
+            Nombre:Marcelita,
+            Apellido:Cuenca,
+            Email:craneviter@yahoo.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:62,
+            Nombre:Maria,
+            Apellido:Delagracias,
+            Email:mariadelas@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:63,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:64,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:65,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:66,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:67,
+            Nombre:Riffel,
+            Apellido:Cristianosvskys,
+            Email:crisrifel@ukrania.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:74,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:75,
+            Nombre:Jose,
+            Apellido:Abraham,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:76,
+            Nombre:Abrillos,
+            Apellido:Cuevitasrojas,
+            Email:JoseAbraham@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:77,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:78,
+            Nombre:Richardios,
+            Apellido:Fortunatio,
+            Email:forturi@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:79,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:80,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:81,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:82,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:83,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:84,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:85,
+            Nombre:Pepito,
+            Apellido:Romers,
+            Email:pepitrosm@hotmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:87,
+            Nombre:Pablito,
+            Apellido:Sanflo,
+            Email:SanshFlow@gmail.com,
+
+        
+11:38:50 AM:DEBUG [persona_dao.py:75] 
+            Id Persona:90,
+            Nombre:Betty,
+            Apellido:Bu,
+            Email:BettyBu@hotmail.com,
+
+        

@@ -1,0 +1,15 @@
+# Ignorar archivos compilados de Python
+*.pyc
+
+# Ignorar el directorio __pycache__
+__pycache__/
+
+# Ignorar el archivo de configuración que contiene claves de API
+config.py
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar archivos temporales
+*.log
+*.tmp
